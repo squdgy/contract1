@@ -1,10 +1,10 @@
 {
-  "name": "@paulrberg/solidity-template",
-  "description": "Setup for writing Solidity smart contracts",
-  "version": "1.0.0",
+  "name": "@squddgy/contract1",
+  "description": "Contract1",
+  "version": "0.1.0",
   "author": {
-    "name": "Paul Razvan Berg",
-    "url": "https://paulrberg.com"
+    "name": "Maura Wilder",
+    "url": "https://squdgy.wordpress.com"
   },
   "devDependencies": {
     "@codechecks/client": "^0.1.11",
